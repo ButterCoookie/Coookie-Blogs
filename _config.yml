@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: Coookie # the main title
 
-tagline: OIer曲奇的博客 # it will display as the subtitle
+tagline: 曲奇的博客 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   ButterCoookie's personal blog. 
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://buttercoookie.github.io/CDN
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://cn.cravatar.com/avatar/496d7ddd7e0461162d7f42f85f917881
