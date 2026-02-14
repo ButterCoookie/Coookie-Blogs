@@ -29,7 +29,7 @@ github:
   username: ButterCoookie # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: ButterCoookie # change to your Twitter username
 
 social:
   # Change to your full name.
@@ -38,7 +38,7 @@ social:
   email: JackyHuang_SES@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ # change to your Twitter homepage
+    - https://buttercoookie.github.io/Introduction-page # change to your Twitter homepage
     - https://github.com/ButterCoookie # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
