@@ -38,7 +38,7 @@ social:
   email: JackyHuang_SES@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://buttercoookie.github.io/Introduction-page # change to your Twitter homepage
+    - https://buttercoookie.github.io # change to your Twitter homepage
     - https://github.com/ButterCoookie # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
@@ -95,7 +95,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn: https://buttercoookie.github.io/CDN
+cdn: https://cdn.coookie.dpdns.org
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://cn.cravatar.com/avatar/496d7ddd7e0461162d7f42f85f917881
