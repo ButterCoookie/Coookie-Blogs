@@ -20,10 +20,11 @@ mermaid: true
 
 填写好信息后点击`Check Availability`，如果显示`Sorry, this domain name is already registered`代表域名已经被注册了，请点击`Go Back`重新选择域名。
 
-![域名重复](/Building-Site/2.png)\
-![可以使用](/Building-Site/3.png)
+![域名重复](/Building-Site/2.png)
 
 进入如果有绿色框框显示`Congratulations! This domain name is now available`代表域名没有被注册，你可以使用。确认完`Your domain information`后还不算注册成功，只是验证了能注册。
+
+![可以使用](/Building-Site/3.png)
 
 接下来是关键步骤，请在此之前**不要关闭原来的网页**，并打开[cloudflare](https://www.cloudflare.com/)，你也可以免费注册一个账号。接下来进入你的`Account home`。
 
@@ -51,7 +52,7 @@ mermaid: true
 `185.199.110.153`\
 `185.199.111.153`
 
-在`DNS`页面中，找到`DNS management for...`栏目，点击`Add record`开始增加IP配置。
+在`DNS`页面中，找到`DNS management for...`栏目，点击`Add record`开始增加`DNS`配置。
 
 ### 主站/www子域
 主站和www子域是最常见的主页页面，一般直接绑定*Github Pages*。
