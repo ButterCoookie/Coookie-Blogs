@@ -1,9 +1,0 @@
-# 曲奇的博客
-## 公告
-
-## 个人信息
-曲奇，中国初二在读OIer。
-## 其他账号
-[ButterCoookie](https://buttercoookie.github.io) [Github](https://github.com/ButterCoookie)
-
-[Luogu](https://www.luogu.com.cn/user/1008766) [Codeforces](https://codeforces.com/profile/Sky_Aurora) [AtCoder](https://atcoder.jp/users/Sky_Aurora) [Hydro](https://hydro.ac/user/74747) [Libre](https://loj.ac/u/Jacky_LibreOJ)
